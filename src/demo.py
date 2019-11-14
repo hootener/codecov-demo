@@ -15,3 +15,7 @@ def new_func_2():
 
 def new_func_3():
     return False
+
+
+def new_func_4():
+    return False
